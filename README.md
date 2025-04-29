@@ -71,4 +71,8 @@ Tabular view for granular-level data:
 - Insights into location-wise demand and vehicle preferences
 - Support for pricing and driver allocation strategies
 
-## 📁 Folder Structure (if you include files)
+## 📁 Overview
+![Overview Dashboard](./overview.png)
+![Time Analysis Dashboard](./time_analysis.png)
+![Trip Details Table](./trip_details.png)
+
