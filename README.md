@@ -15,6 +15,11 @@ This repository contains a Power BI dashboard project focused on analyzing Uber 
 
 The **Uber Trip Analysis** project was built using Power BI to help stakeholders explore and visualize trip data in an interactive and insightful manner. The analysis focuses on key performance indicators such as total bookings, revenue, trip duration, and location-based trends.
 
+## 📁 Dashboards Overview
+![Overview Dashboard](./overview.png)
+![Time Analysis Dashboard](./time_analysis.png)
+![Trip Details Table](./trip_details.png)
+
 ## 🛠️ Tools & Technologies
 - Power BI
 - DAX (Data Analysis Expressions)
@@ -80,8 +85,4 @@ Tabular view for granular-level data:
 - Insights into location-wise demand and vehicle preferences
 - Support for pricing and driver allocation strategies
 
-## 📁 Overview
-![Overview Dashboard](./overview.png)
-![Time Analysis Dashboard](./time_analysis.png)
-![Trip Details Table](./trip_details.png)
 
