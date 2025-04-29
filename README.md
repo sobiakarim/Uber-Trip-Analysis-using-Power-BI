@@ -8,6 +8,9 @@ This repository contains a Power BI dashboard project focused on analyzing Uber 
  - Trip Details - https://github.com/sobiakarim/Uber-Trip-Analysis-using-Power-BI/blob/main/Uber%20Trip%20Details.xlsx
  - Location Details - https://github.com/sobiakarim/Uber-Trip-Analysis-using-Power-BI/blob/main/Location%20Table.xlsx
 
+**Dashboard**
+-  Power BI dashboard file - https://github.com/sobiakarim/Uber-Trip-Analysis-using-Power-BI/blob/main/uber.pbix
+
 ## 📌 Project Overview
 
 The **Uber Trip Analysis** project was built using Power BI to help stakeholders explore and visualize trip data in an interactive and insightful manner. The analysis focuses on key performance indicators such as total bookings, revenue, trip duration, and location-based trends.
